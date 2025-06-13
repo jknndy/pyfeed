@@ -1,0 +1,4 @@
+pytests
+python-dateutil
+fastapi
+uvicorn
