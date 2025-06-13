@@ -1,6 +1,6 @@
 [project]
 name = "pyfeed"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pure Python RSS/Atom parser and feed backend API"
 authors = [
     { name = "Joey", email = "you@example.com" }
